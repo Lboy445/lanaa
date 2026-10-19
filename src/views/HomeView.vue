@@ -60,11 +60,11 @@ const highlights = [
         </p>
 
         <div class="hero-actions">
-          <RouterLink to="/hbd/2026" class="button button-primary">
+          <a href="https://lboy445.github.io/hbd-lanaa/" class="button button-primary">
             <span class="button-icon">✧</span>
             <span>Lihat HBD 2026</span>
             <span class="button-arrow">→</span>
-          </RouterLink>
+          </a>
 
           <RouterLink to="/diary/2026" class="button button-secondary">
             <span class="button-icon">✎</span>
