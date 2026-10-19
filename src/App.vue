@@ -89,7 +89,7 @@
                         />
                       </svg>
                   </a>
-                  <a class="year-link" active-class="year-active" href="https://lboy445.github.io/selamatulangtahun/">
+                  <a class="year-link" active-class="year-active" href="https://lboy445.github.io/hbd-lanaa/">
                     <span class="year-dot"></span>
                     <span>2026</span>
                     <svg viewBox="0 0 24 24" fill="none">
