@@ -9,7 +9,7 @@ export default defineConfig({
   base: '/lanaa/',
   plugins: [
     vue(),
-        vueJsx(),
+    vueJsx(),
     vueDevTools(),
   ],
   resolve: {
